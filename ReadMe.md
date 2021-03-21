@@ -44,13 +44,16 @@ Menu Option3-
 ![Menu_Option3](https://github.com/etusang/Repo1/blob/140d974562b1f98020a8969ca255cd4dca48d068/5.Menu_Option3.JPG?raw=true)
 
 Crontab1-
-![Crontab1](https://github.com/etusang/Repo1/blob/140d974562b1f98020a8969ca255cd4dca48d068/6.Crontab1.JPG?raw=true)
+![Crontab1](https://github.com/etusang/Repo1/blob/8664f521220c1db1777e1ff8efed2993eda8dfc4/6.Crontab1.JPG?raw=true)
 
 CronTab2-
-![Crontab2](https://github.com/etusang/Repo1/blob/140d974562b1f98020a8969ca255cd4dca48d068/7.Crontab2.JPG?raw=true)
+![Crontab2](https://github.com/etusang/Repo1/blob/8664f521220c1db1777e1ff8efed2993eda8dfc4/7.Crontab2.JPG?raw=true)
 
 DB_Schema-
+![DB_Schema](https://github.com/etusang/Repo1/blob/8664f521220c1db1777e1ff8efed2993eda8dfc4/8.DB_Schema.JPG?raw=true)
 
+DB Table-
+![DB_Schema](https://github.com/etusang/Repo1/blob/8664f521220c1db1777e1ff8efed2993eda8dfc4/9.DB_Table_Value.JPG?raw=true)
 
 # Installation
 1. Python3
