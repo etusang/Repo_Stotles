@@ -30,9 +30,6 @@ Menu Options
 #CronTab
 ![Crontab](https://github.com/etusang/Repo1/blob/b66cb4cb64947ae88f2e8a9b30aea34301c26b57/2.Crontab.JPG?raw=true)
 
-#Flow
-![CodeFlow](https://github.com/etusang/Repo1/blob/b66cb4cb64947ae88f2e8a9b30aea34301c26b57/0.CodeFlow.JPG?raw=true)
-
 
 # Visuals
 Menu Option1 -
