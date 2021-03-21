@@ -35,12 +35,19 @@ Image
 
 # Visuals
 Menu Option1 -
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 ![Menu_Option1](https://github.com/etusang/Repo1/blob/140d974562b1f98020a8969ca255cd4dca48d068/3.Menu_Option1.JPG?raw=true)
 
 Menu Option2-
+![Menu_Option1](https://github.com/etusang/Repo1/blob/140d974562b1f98020a8969ca255cd4dca48d068/4.Menu_Option2.JPG?raw=true)
 
 Menu Option3-
+![Menu_Option1](https://github.com/etusang/Repo1/blob/140d974562b1f98020a8969ca255cd4dca48d068/5.Menu_Option3.JPG?raw=true)
+
+Crontab1-
+
+CronTab2-
+
+DB_Schema-
 
 
 # Installation
