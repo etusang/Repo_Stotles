@@ -50,7 +50,7 @@ CronTab2-
 ![Crontab2](https://github.com/etusang/Repo1/blob/8664f521220c1db1777e1ff8efed2993eda8dfc4/7.Crontab2.JPG?raw=true)
 
 DB_Schema-
-![DB_Schema](https://github.com/etusang/Repo1/blob/8664f521220c1db1777e1ff8efed2993eda8dfc4/8.DB_Schema.JPG?raw=true)
+![DB_Schema](https://github.com/etusang/Repo1/blob/f78ff1ab3a5351407922d4a57ac9fb83953521cd/8.DB_schema.JPG?raw=true)
 
 DB Table-
 ![DB_Schema](https://github.com/etusang/Repo1/blob/8664f521220c1db1777e1ff8efed2993eda8dfc4/9.DB_Table_Value.JPG?raw=true)
