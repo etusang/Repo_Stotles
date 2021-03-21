@@ -24,13 +24,14 @@ Configuration File allows to setup following parameters-
 
 # Badges
 Menu Options
-Image
+![Menu_Option](https://github.com/etusang/Repo1/blob/b66cb4cb64947ae88f2e8a9b30aea34301c26b57/1.Menu_Option.JPG?raw=true)
+
 
 #CronTab
-Image
+![Crontab](https://github.com/etusang/Repo1/blob/b66cb4cb64947ae88f2e8a9b30aea34301c26b57/2.Crontab.JPG?raw=true)
 
 #Flow
-Image
+![CodeFlow](https://github.com/etusang/Repo1/blob/b66cb4cb64947ae88f2e8a9b30aea34301c26b57/0.CodeFlow.JPG?raw=true)
 
 
 # Visuals
@@ -53,7 +54,7 @@ DB_Schema-
 ![DB_Schema](https://github.com/etusang/Repo1/blob/f78ff1ab3a5351407922d4a57ac9fb83953521cd/8.DB_schema.JPG?raw=true)
 
 DB Table-
-![DB_Schema](https://github.com/etusang/Repo1/blob/8664f521220c1db1777e1ff8efed2993eda8dfc4/9.DB_Table_Value.JPG?raw=true)
+![DB_Table](https://github.com/etusang/Repo1/blob/8664f521220c1db1777e1ff8efed2993eda8dfc4/9.DB_Table_Value.JPG?raw=true)
 
 # Installation
 1. Python3
