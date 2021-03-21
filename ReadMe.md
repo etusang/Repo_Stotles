@@ -154,11 +154,11 @@ Purpose of Each function-
 Email: sangeetatulsiyan@gmail.com
 
 # Roadmap
-1.Exceptional Handling can be implemented.
-2.Users can be notified via email.
-3.Database column Mapping with JSON fields could be done separately.
-4.Output File Dictionary column Mapping with JSON fields could be done separately.
-5.Database can have primary key to avoid duplication of data (In this implementation Table content is deleted before inserting new Data).
-6.Functions can be split into different files and those files can be import.
-7.Test Cases can be written.
-8.Configuration File Path can be picked from OS PATH.
+1. Exceptional Handling can be implemented.
+2. Users can be notified via email.
+3. Database column Mapping with JSON fields could be done separately.
+4. Output File Dictionary column Mapping with JSON fields could be done separately.
+5. Database can have primary key to avoid duplication of data (In this implementation Table content is deleted before inserting new Data).
+6. Functions can be split into different files and those files can be import.
+7. Test Cases can be written.
+8. Configuration File Path can be picked from OS PATH.
