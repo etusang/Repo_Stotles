@@ -4,22 +4,22 @@ Tool to browse results from an external API
 
 # Description
 
-It's a command line menu driven project, which provides follwoing 3 options to users-
+This is a command line menu driven project, which provides users with the following 3 options-
 1. A user should be able to search for all notices (tenders and contracts) published between specified dates and browse the results.
-2. The user should be able to narrow the results by performing text-search on the `description` field(case-insensitive substring match)
-3. You can display the results in a simple list (stored in a file) [based on `noticeType` either `deadlineDate` (for tenders) and `awardedDate` (for awards) is displayed]
+2. User should be able to narrow the results by performing text-search on the `description` field(case-insensitive substring match)
+3. User should be able to display the results in a simple list (stored in a file) [based on `noticeType` either `deadlineDate` (for tenders) and `awardedDate` (for awards) is displayed]
 
 It also performs following 2 scheduled jobs-
 1. Run on schedule time to fetch data from Contracts Finder API and store the notices in our DB.(sqlite3 DB)
 2. Check the data against predefined search queries and "notify" the users if there are any matches (Ouput stored in a file)
 
-Configuration File allows to setup following parameters-
-1.Database Name
-2.Search Query
-3.URL
-4.Request Body
-5.Outfile Name
-6.Menu Options
+Configuration File allows user to setup following parameters-
+1. Database Name
+2. Search Query
+3. URL
+4. Request Body
+5. Outfile Name
+6. Menu Options
 
 # Badges
 
@@ -76,7 +76,6 @@ Purpose of Each function-
 	Func_json_save(resp):
 	## To save the result of API in JSON format
 	
-	
 	Func_User_Input(Opt):
 	## User Input text for StartDate,EndDate and Description
 	
@@ -89,22 +88,17 @@ Purpose of Each function-
 	Func_Search_desc(resp,desc=""):
 	## Search Notices for description or part of description
 	
-	
 	Func_create_table(cur):
 	## Search Notices for description or part of description
-	
 	
 	Func_Save_DB(resp):
 	## Function to delete previous data and store the result of API in table
 	
-	
 	Func_Query_DB(resp):
 	## Function to store the result of API in a table
 	
-	
 	Func_status(Res,Opt):
 	## Function to check status_code response from API
-	
 	
 	Func_Option(Res,Opt): 
 	## To call Functions based on user option from Menu
@@ -147,18 +141,17 @@ Purpose of Each function-
 	##Search Notices from DB on Predefined Queries
 	Func_Query_DB(resp) -> Func_Save_DB
 	Func_Path_Set(Name)
-	
 
 
 # Support
 Email: sangeetatulsiyan@gmail.com
 
 # Roadmap
-1. Exceptional Handling can be implemented.
+1. Exception Handling can be implemented.
 2. Users can be notified via email.
 3. Database column Mapping with JSON fields could be done separately.
 4. Output File Dictionary column Mapping with JSON fields could be done separately.
-5. Database can have primary key to avoid duplication of data (In this implementation Table content is deleted before inserting new Data).
-6. Functions can be split into different files and those files can be import.
+5. Database can have primary key to avoid duplication of data (In this implementation table, content is deleted before inserting new data).
+6. Functions can be split into different files and those files can be imported.
 7. Test Cases can be written.
 8. Configuration File Path can be picked from OS PATH.
