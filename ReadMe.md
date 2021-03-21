@@ -63,7 +63,7 @@ DB Table-
 
 # Usage
 
-Purpose of ach function-
+Purpose of Each function-
   	def _url(path):
 	## Setting URL
 	
@@ -117,6 +117,41 @@ Purpose of ach function-
 	
 	Main
 	## Main Function
+	
+	
+## Order of Function Calls for each Option
+	
+	##Common for menu Driven Options
+	Func_menu_option(options)
+	Func_POST_Notices(task)
+	Func_status(Res,Opt)
+	Func_Option(Res,Opt)
+	
+	##Summary of Notices in a File
+	Func_json_save(resp)
+	Func_Parse_Notices(res)
+	Func_Path_Set(Name)
+	
+	##Store Summary in Database
+	Func_Save_DB(resp)
+	Func_Parse_Notices(res)
+	Func_Path_Set(Name)
+	Func_Default_DB_val()
+	Func_create_table(cur)
+	
+	##Search Notices by Description
+	Func_Search_desc(resp,desc="")
+	Func_Parse_Notices(res)
+	
+	##Search Notices Between Start and End Date
+	Func_Search_btw_dates(resp,start_date=0,end_date=0):
+	Func_Parse_Notices(res)
+	
+	##Search Notices from DB on Predefined Queries
+	Func_Query_DB(resp) -> Func_Save_DB
+	Func_Path_Set(Name)
+	
+
 
 # Support
 Email: sangeetatulsiyan@gmail.com
