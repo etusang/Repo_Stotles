@@ -36,6 +36,8 @@ Image
 # Visuals
 Menu Option1 -
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text] https://github.com/etusang/Repo1/blob/140d974562b1f98020a8969ca255cd4dca48d068/3.Menu_Option1.JPG
+
 Menu Option2-
 
 Menu Option3-
