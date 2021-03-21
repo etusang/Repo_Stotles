@@ -1,12 +1,12 @@
 # Name
+
 Tool to browse results from an external API
 
 # Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
 
-It's a command line menu driven project, which provides follwoing 5 options to users-
+It's a command line menu driven project, which provides follwoing 3 options to users-
 1. A user should be able to search for all notices (tenders and contracts) published between specified dates and browse the results.
-2. The user should be able to narrow the results by performing text-search on the `description` field.(case-insensitive substring match)
+2. The user should be able to narrow the results by performing text-search on the `description` field(case-insensitive substring match)
 3. You can display the results in a simple list (stored in a file) [based on `noticeType` either `deadlineDate` (for tenders) and `awardedDate` (for awards) is displayed]
 
 It also performs following 2 scheduled jobs-
@@ -23,13 +23,15 @@ Configuration File allows to setup following parameters-
 
 
 # Badges
-Menu Options
+
+#Menu Options
 ![Menu_Option](https://github.com/etusang/Repo1/blob/617c32f85a4d2c5895e09dbf791584b2e0065b23/1.Menu_Option.JPG?raw=true)
 
 #CronTab
 ![Crontab](https://github.com/etusang/Repo1/blob/617c32f85a4d2c5895e09dbf791584b2e0065b23/2.Crontab.JPG?raw=true)
 
 # Visuals
+
 Menu Option1 -
 ![Menu_Option1](https://github.com/etusang/Repo1/blob/b8c60835ea4358c2399b4002db3a1c6fcece1a92/3.Menu_Option1.JPG?raw=true)
 
@@ -52,6 +54,7 @@ DB Table-
 ![DB_Table](https://github.com/etusang/Repo1/blob/8664f521220c1db1777e1ff8efed2993eda8dfc4/9.DB_Table_Value.JPG?raw=true)
 
 # Installation
+
 1. Python3
 2. SQLite3
 
@@ -160,6 +163,3 @@ Database can have primary key to avoid duplication of data (In this implementati
 Functions can be split into different files and import
 Test Cases can be written
 Configuration File Path can be picked from OS PATH
-
-
-
