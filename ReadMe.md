@@ -63,6 +63,60 @@ DB Table-
 
 # Usage
 
+Purpose of ach function-
+  def _url(path):
+	## Setting URL
+	
+	Func_POST_Notices(task):
+	##Post Notices
+	
+	Func_Path_Set(Name):
+	## Setting Path from base directory
+	
+	Func_Parse_Notices(res):
+	## Retrieving required fields from JSON response
+	
+	Func_json_save(resp):
+	## To save the result of API in JSON format
+	
+	
+	Func_User_Input(Opt):
+	## User Input text for StartDate,EndDate and Description
+	
+	Func_Default_DB_val():
+	## Setting Default Value for every row inserted in DB
+	
+	Func_Search_btw_dates(resp,start_date=0,end_date=0):
+	## Search Notices between start date and end date
+	
+	Func_Search_desc(resp,desc=""):
+	## Search Notices for description or part of description
+	
+	
+	Func_create_table(cur):
+	## Search Notices for description or part of description
+	
+	
+	Func_Save_DB(resp):
+	## Function to delete previous data and store the result of API in table
+	
+	
+	Func_Query_DB(resp):
+	## Function to store the result of API in a table
+	
+	
+	Func_status(Res,Opt):
+	## Function to check status_code response from API
+	
+	
+	Func_Option(Res,Opt): 
+	## To call Functions based on user option from Menu
+	
+	Func_menu_option(options):
+	## Display Main Menu and take User Input
+	
+	Main
+	## Main Function
 
 # Support
 Email: sangeetatulsiyan@gmail.com
