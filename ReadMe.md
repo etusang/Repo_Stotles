@@ -24,12 +24,10 @@ Configuration File allows to setup following parameters-
 
 # Badges
 Menu Options
-![Menu_Option](https://github.com/etusang/Repo1/blob/b66cb4cb64947ae88f2e8a9b30aea34301c26b57/1.Menu_Option.JPG?raw=true)
-
+![Menu_Option](https://github.com/etusang/Repo1/blob/617c32f85a4d2c5895e09dbf791584b2e0065b23/1.Menu_Option.JPG?raw=true)
 
 #CronTab
-![Crontab](https://github.com/etusang/Repo1/blob/b66cb4cb64947ae88f2e8a9b30aea34301c26b57/2.Crontab.JPG?raw=true)
-
+![Crontab](https://github.com/etusang/Repo1/blob/617c32f85a4d2c5895e09dbf791584b2e0065b23/2.Crontab.JPG?raw=true)
 
 # Visuals
 Menu Option1 -
