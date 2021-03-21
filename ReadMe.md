@@ -161,5 +161,5 @@ Email: sangeetatulsiyan@gmail.com
 4.Output File Dictionary column Mapping with JSON fields could be done separately.
 5.Database can have primary key to avoid duplication of data (In this implementation Table content is deleted before inserting new Data).
 6.Functions can be split into different files and those files can be import.
-Test Cases can be written.
-Configuration File Path can be picked from OS PATH.
+7.Test Cases can be written.
+8.Configuration File Path can be picked from OS PATH.
