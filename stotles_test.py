@@ -189,13 +189,16 @@ def Func_menu_option(options):
         return Sel_option
     else:
         print("Invalid Option")
-        exit;
+        exit();
 
 
 ## Main Function
 def main():
     if(len(sys.argv) > 1): ## Command Line Argument
         Sel_option = int(sys.argv[1])
+        if (Sel_option not in (4,5)):
+            print("Invalid Option")
+            exit();            
     else:
         options=json.loads(config['MENU']['v_options'])
         Sel_option = Func_menu_option(options)
