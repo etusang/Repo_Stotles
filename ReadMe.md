@@ -32,8 +32,8 @@ Configuration File allows to setup following parameters-
 
 # Visuals
 
-Menu Option1 -
-![Menu_Option1](https://github.com/etusang/Repo1/blob/b8c60835ea4358c2399b4002db3a1c6fcece1a92/3.Menu_Option1.JPG?raw=true)
+Menu Option1-
+![Menu_Option2](https://github.com/etusang/Repo1/blob/b8c60835ea4358c2399b4002db3a1c6fcece1a92/4.Menu_Option2.JPG?raw=tru
 
 Menu Option2-
 ![Menu_Option2](https://github.com/etusang/Repo1/blob/140d974562b1f98020a8969ca255cd4dca48d068/4.Menu_Option2.JPG?raw=true)
